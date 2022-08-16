@@ -8,7 +8,7 @@ Cryptoverse is a react application that gathers information regarding crypto cur
 - Millify
 - ChartJs
 
-# Run App
+# Run Application
 First you will need to run `npm i` to get all the packages and next you will need to create a .env file where you will have the following environment variables:
 - REACT_APP_RAPIDAPI_KEY
 - REACT_APP_CRYPTO_RAPIDAPI_HOST
